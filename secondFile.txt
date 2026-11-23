@@ -1,0 +1,10 @@
+Spring is a Java framework.
+Spring Boot simplifies application development.
+REST APIs allow applications to communicate.
+HTTP defines communication between clients and servers.
+Databases store application information.
+SQL is used to manage relational databases.
+JPA simplifies database operations in Java.
+Hibernate is an implementation of JPA.
+Testing helps developers find software bugs.
+Good documentation improves teamwork.
