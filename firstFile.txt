@@ -1,5 +1,5 @@
-Java is a popular programming language.
-It is widely used for backend development.
+Git merge combines changes from different branches.
+GitHub provides cloud-based repository hosting.
 Git helps developers manage source code.
 A repository stores project files and history.
 Branches allow developers to work independently.
