@@ -1,6 +1,6 @@
 Spring is a Java framework.
-Spring Boot simplifies application development.
-REST APIs allow applications to communicate.
+Spring Boot makes Java development easier.
+REST APIs connect different software applications.
 HTTP defines communication between clients and servers.
 Databases store application information.
 SQL is used to manage relational databases.
