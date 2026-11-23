@@ -1,5 +1,5 @@
-Git merge combines changes from different branches.
-GitHub provides cloud-based repository hosting.
+Git merges combine work from multiple branches.
+GitHub hosts source code repositories online.
 Git helps developers manage source code.
 A repository stores project files and history.
 Branches allow developers to work independently.
